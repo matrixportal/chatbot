@@ -2,11 +2,11 @@
 Bu proje basit bir Chatbot projesidir. Projenin gelişimine katkı sağlayabilir veya klonlayabilirsiniz. Kurulum adımlarını takip ederek kolayca çalıştırabilirsiniz. 
 
 Bağımlılıklar:
-numpy-1.24.3
-torch-2.0.1
-nltk-3.8.1
-requests-2.30.0
-pytz-2023.3
+- numpy-1.24.3
+- torch-2.0.1
+- nltk-3.8.1
+- requests-2.30.0
+- pytz-2023.3
 
 KURULUM!
 Sanal alan oluşturma:
