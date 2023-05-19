@@ -57,7 +57,7 @@
                 "bu hafta hava nasıl olacak"
             ],
             "responses": [
-                "{city} şehrindeki hava durumu tahminleri:\n{forecasts}"
+                "{city} şehrindeki hava durumu tahminleri:\\n{forecasts}"
             ]
         },
         {
@@ -496,7 +496,7 @@
                 "neredensin"
             ],
             "responses": [
-                "Ben Dünyalıyım. Muğla'nın Milas ilçesinde Hamza tarafından tasarlanan bir yapay zeka modeliyim. Siz nerelisiniz?"
+                "Ben Dünyalıyım. 😁️ Siz nerelisiniz?"
             ]
         },
         {
@@ -568,6 +568,33 @@
             ],
             "responses": [
                 "Aşk, kişilerarası ilişki veya bir başka varlığa duyulan derin sevgidir. Aşk, en yüce erdem veya iyi alışkanlıktan, en derin kişiler arası sevgiden en basit zevke kadar bir dizi güçlü, olumlu duygusal ve zihinsel durumları kapsar. Cinsel veya romantik bir ilişki olursa, partnerlere sevgililer de denir."
+            ]
+        },
+        {
+            "tag": "kod yazabilir misin",
+            "patterns": [
+                "kod yazabilir misin",
+                "python",
+                "python kod örneği",
+                "basit bir kod örneği şimdilik yeterli"
+            ],
+            "responses": [
+                "Elbette! Hangi programlama dilinde kod yazmamı istersiniz? Python, Java, C++, vb. gibi?\"",
+                "Tabii, ne tür bir kod yazmak istediğinizi söyler misiniz? Örneğin, bir hesap makinesi veya bir kelime oyunu gibi bir örnek verin, böylece size daha iyi yardımcı olabilirim.",
+                "Tamam, burada basit bir örnek veriyorum:\\n\\n```python\\n# İki sayının toplamını bulan basit bir Python kodu\\n\\nsayi1 = 7\\nsayi2 = 11\\n\\n# İki sayıyı topla\\ntoplam = sayi1 + sayi2\\n\\n# Sonucu yazdır\\nprint(f\\\"İki sayının toplamı: {toplam}\\\")\\n```\\n\\nBu kod, kod bloğunu çalıştırdığınızda ekranınızda \\\"İki sayının toplamı: 18\\\" yazacak. \\n\\nKod, iki sayıyı toplar ve sonucu yazdırır. `f\\\"İki sayının toplamı: {toplam}\\\"` satırı sonucu yazdırmak için bir f-string kullanır. Pandas, Numpy veya Matplotlib gibi kütüphaneler ekleyerek daha fazla karmaşık kod yazmanız da mümkün."
+            ]
+        },
+        {
+            "tag": "Huzurlu Uyku Meditasyonu",
+            "patterns": [
+                "uyku meditasyonu",
+                "uyku için  meditasyon",
+                "iyi uyku için meditasyon",
+                "iyi bir uyku için meditasyon",
+                "İyi ve dinlendirici bir uyku için kolay bir meditasyon tekniği verir misin?"
+            ],
+            "responses": [
+                "\\n"
             ]
         },
         {
@@ -730,7 +757,7 @@
                 "tüm soğuk espriler"
             ],
             "responses": [
-                "1. Manavda 2 domates var hangisi kovboy? Hiç biri çünkü onlar kızılderili. \n2. Hit parçaların olduğu müzik listesi hangisi? Adolf Hitler. \n3. Dört tarafı suyla çevrili çaya ne denir? Adaçayı \n4. Kenan İmirzalıoğlu’nu ne zamandır tanıyorsun? Ezelden beri \n5. Pitonun gelişmiş haline ne denir? Pitonbir \n6. Hangi yemek mide bulandır? Kuskus \n7. Elma neden diskoya gitmiş? Kurtlarını dökmek için \n8. Patlıcan balona ne söylemiş? Sende Patlıcan \n9. İsli sos hangisidir? Sosis \n10. En ünlü şehir hangisidir? Şanlıurfa \n11. Süper kahramana sahip şehir neresidir? Batman \n12. Yazar olan sanatçı kimdir? Gönül yazar \n13. Asla terlemeyen kurum neresidir? Noter \n14. En beyaz gezegen hangisi? Ay-Ak \n15. Arda ismi en çok nerede bulunur? Ardahan \n16. En iyi atlayan hayvan hangisidir? Atmaca \n17. Beyaz tenli ve kıllı kişiye ne denir? Akıllı \n18. Ceylana benzeyen erkek ünlü kimdir? Murat Ceylan 19. Dondurmayı kim yalar? Himalayalar \n20. En fazla eşek nerede bulunur? Spa merkezinde \n21. Erkek kuşa ne denir? Baykuş \n22. Giden kuşa ne denir? Baykuş \n23. Aşçı Ceren’e ne denir? Tenceren \n24. Osman isminin en yaygın kullanıldığı yer neresidir? Osmaniye \n25. Lazlar girecek kişiye ne der? Giresun \n26. En yavaş at hangisidir? Sakatat \n27. Sürekli sakat olan futbolcu kimdir? Emre Çolak ve Mehmet Topal \n28. En uzun yaşayan ünlü kimdir? Arif Sağ \n29. Hiç ıslak olmayan yiyecek hangisidir? Kuru fasulye \n30. En fazla telefonda araması yapan sanatçı kimdir? Funda Arar \n31. Ay güneş ışını alırsa ne olur? Kızılay \n32. İçine 3 harfli kaçmış hayvan hangisidir Güvercin \n33. Zorlamayı en çok seven hayvan Dinozorlar \n34. Dünyanın en eski şehri neresidir? Eskişehir \n35. Suyun küçüğüne ne denir? Sucuk denir? \n36. Don olunca arabaya hangi lastik takılır? Don lastiği \n37. Kırmızı giyinmeyi seven erkeğe ne denir Albay \n38. Pişmemiş burgere ne denir? Hamburger \n39. Yıkanan tona ne denir? Washington \n40. Fransızların neyi eksik? FRANları \n41. Bebeğe tır çarpmış ölmemiş neden? Bezi bariyerliymiş. \n42. Bebeğe patik giydirmeye çalışmışlar giymemiş neden? Çünkü antipatikmiş \n43. Adamın kafasına radyo düşmüş bir şey olmamış neden? Radyoda hafif müzik çalıyormuş \n44. Hangi çiçek hem kafaya takılır hem de yıkanır? Fes-leğen \n45. İshal olmuş böceğe ne denir? Cırcır böceği \n46. En güzel çay nerede içilir? Çay bar-dağında \n47. Tuvaletteki 10 a ne denir? Şifon \n48. Bacaktaki 10 a ne denir? Pantolon \n49. Fransız ihtilali neye karşı yapıldı? Sabaha karşı \n50. Erkek ata ne denir? Bayat"
+                "1. Manavda 2 domates var hangisi kovboy? Hiç biri çünkü onlar kızılderili. \\n2. Hit parçaların olduğu müzik listesi hangisi? Adolf Hitler. \\n3. Dört tarafı suyla çevrili çaya ne denir? Adaçayı \\n4. Kenan İmirzalıoğlu’nu ne zamandır tanıyorsun? Ezelden beri \\n5. Pitonun gelişmiş haline ne denir? Pitonbir \\n6. Hangi yemek mide bulandır? Kuskus \\n7. Elma neden diskoya gitmiş? Kurtlarını dökmek için \\n8. Patlıcan balona ne söylemiş? Sende Patlıcan \\n9. İsli sos hangisidir? Sosis \\n10. En ünlü şehir hangisidir? Şanlıurfa \\n11. Süper kahramana sahip şehir neresidir? Batman \\n12. Yazar olan sanatçı kimdir? Gönül yazar \\n13. Asla terlemeyen kurum neresidir? Noter \\n14. En beyaz gezegen hangisi? Ay-Ak \\n15. Arda ismi en çok nerede bulunur? Ardahan \\n16. En iyi atlayan hayvan hangisidir? Atmaca \\n17. Beyaz tenli ve kıllı kişiye ne denir? Akıllı \\n18. Ceylana benzeyen erkek ünlü kimdir? Murat Ceylan 19. Dondurmayı kim yalar? Himalayalar \\n20. En fazla eşek nerede bulunur? Spa merkezinde \\n21. Erkek kuşa ne denir? Baykuş \\n22. Giden kuşa ne denir? Baykuş \\n23. Aşçı Ceren’e ne denir? Tenceren \\n24. Osman isminin en yaygın kullanıldığı yer neresidir? Osmaniye \\n25. Lazlar girecek kişiye ne der? Giresun \\n26. En yavaş at hangisidir? Sakatat \\n27. Sürekli sakat olan futbolcu kimdir? Emre Çolak ve Mehmet Topal \\n28. En uzun yaşayan ünlü kimdir? Arif Sağ \\n29. Hiç ıslak olmayan yiyecek hangisidir? Kuru fasulye \\n30. En fazla telefonda araması yapan sanatçı kimdir? Funda Arar \\n31. Ay güneş ışını alırsa ne olur? Kızılay \\n32. İçine 3 harfli kaçmış hayvan hangisidir Güvercin \\n33. Zorlamayı en çok seven hayvan Dinozorlar \\n34. Dünyanın en eski şehri neresidir? Eskişehir \\n35. Suyun küçüğüne ne denir? Sucuk denir? \\n36. Don olunca arabaya hangi lastik takılır? Don lastiği \\n37. Kırmızı giyinmeyi seven erkeğe ne denir Albay \\n38. Pişmemiş burgere ne denir? Hamburger \\n39. Yıkanan tona ne denir? Washington \\n40. Fransızların neyi eksik? FRANları \\n41. Bebeğe tır çarpmış ölmemiş neden? Bezi bariyerliymiş. \\n42. Bebeğe patik giydirmeye çalışmışlar giymemiş neden? Çünkü antipatikmiş \\n43. Adamın kafasına radyo düşmüş bir şey olmamış neden? Radyoda hafif müzik çalıyormuş \\n44. Hangi çiçek hem kafaya takılır hem de yıkanır? Fes-leğen \\n45. İshal olmuş böceğe ne denir? Cırcır böceği \\n46. En güzel çay nerede içilir? Çay bar-dağında \\n47. Tuvaletteki 10 a ne denir? Şifon \\n48. Bacaktaki 10 a ne denir? Pantolon \\n49. Fransız ihtilali neye karşı yapıldı? Sabaha karşı \\n50. Erkek ata ne denir? Bayat"
             ]
         },
         {
@@ -745,7 +772,7 @@
                 "şiir yazabiliyor musun"
             ],
             "responses": [
-                "\n<p>Henüz şiir yazamıyorum ama Atilla İlhan'ın bir şiirini sizinle paylaşabilirim.<p>\n<p>BEN SANA MECBURUMB\nBen sana mecburum bilemezsin\n Adını mıh gibi aklımda tutuyorum \nBüyüdükçe büyüyor gözlerin \nBen sana mecburum bilemezsin \nİçimi seninle ısıtıyorum.</p><p>\nAğaçlar sonbahara hazırlanıyor \nBu şehir o eski İstanbul mudur \nKaranlıkta bulutlar parçalanıyor \nSokak lambaları birden yanıyor \n Kaldırımlarda yağmur kokusu \nBen sana mecburum sen yoksun. </p><p>\nSevmek kimi zaman rezilce korkuludur \nİnsan bir akşam üstü ansızın yorulur \nTutsak ustura ağzında yaşamaktan \nKimi zaman ellerini kırar tutkusu \nBir kaç hayat çıkarır yaşamasından \nHangi kapıyı çalsa kimi zaman \nArkasında yalnızlığın hınzır uğultusu </p><p>\nFatih'te yoksul bir gramofon çalıyor \nEski zamanlardan bir cuma çalıyor \nDurup köşe başında deliksiz dinlesem \nSana kullanılmamış bir gök getirsem \nHaftalar ellerimde ufalanıyor \nNe yapsam  ne tutsam nereye gitsem \nBen sana mecburum sen yoksun. </p><p>\nBelki haziran  da mavi benekli çocuksun \nAh seni bilmiyor kimseler bilmiyor \nBir şilep sızıyor ıssız gözlerinden \nBelki Yeşilköy'de uçağa biniyorsun \nBütün ıslanmışsın tüylerin ürperiyor \nBelki körsün kırılmışsın telaş içindesin \nKötü rüzgar saçlarını götürüyor </p><p>\nNe vakit bir yaşamak düşünsem \nBu kurtlar sofrasında belki zor \nAyıpsız   fakat ellerimizi kirletmeden \nNe vakit bir yaşamak düşünsem \nSus deyip adınla başlıyorum \nİçim sıra kımıldıyor gizli denizlerin \nHayır başka türlü olmayacak \nBen sana mecburum bilemezsin.</p>"
+                "\\n<p>Henüz şiir yazamıyorum ama Atilla İlhan'ın bir şiirini sizinle paylaşabilirim.<p>\\n<p>BEN SANA MECBURUM\\nBen sana mecburum bilemezsin\\n Adını mıh gibi aklımda tutuyorum \\nBüyüdükçe büyüyor gözlerin \\nBen sana mecburum bilemezsin \\nİçimi seninle ısıtıyorum.</p><p>\\nAğaçlar sonbahara hazırlanıyor \\nBu şehir o eski İstanbul mudur \\nKaranlıkta bulutlar parçalanıyor \\nSokak lambaları birden yanıyor \\n Kaldırımlarda yağmur kokusu \\nBen sana mecburum sen yoksun. </p><p>\\nSevmek kimi zaman rezilce korkuludur \\nİnsan bir akşam üstü ansızın yorulur \\nTutsak ustura ağzında yaşamaktan \\nKimi zaman ellerini kırar tutkusu \\nBir kaç hayat çıkarır yaşamasından \\nHangi kapıyı çalsa kimi zaman \\nArkasında yalnızlığın hınzır uğultusu </p><p>\\nFatih'te yoksul bir gramofon çalıyor \\nEski zamanlardan bir cuma çalıyor \\nDurup köşe başında deliksiz dinlesem \\nSana kullanılmamış bir gök getirsem \\nHaftalar ellerimde ufalanıyor \\nNe yapsam  ne tutsam nereye gitsem \\nBen sana mecburum sen yoksun. </p><p>\\nBelki haziran  da mavi benekli çocuksun \\nAh seni bilmiyor kimseler bilmiyor \\nBir şilep sızıyor ıssız gözlerinden \\nBelki Yeşilköy'de uçağa biniyorsun \\nBütün ıslanmışsın tüylerin ürperiyor \\nBelki körsün kırılmışsın telaş içindesin \\nKötü rüzgar saçlarını götürüyor </p><p>\\nNe vakit bir yaşamak düşünsem \\nBu kurtlar sofrasında belki zor \\nAyıpsız   fakat ellerimizi kirletmeden \\nNe vakit bir yaşamak düşünsem \\nSus deyip adınla başlıyorum \\nİçim sıra kımıldıyor gizli denizlerin \\nHayır başka türlü olmayacak \\nBen sana mecburum bilemezsin.</p>"
             ]
         }
     ]

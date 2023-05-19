@@ -147,6 +147,17 @@ U:allaha emanet ol
 U:aeo
 U:allaha emanet
 A:Siz de Allaha emanet olun!
+K:selamlama
+U:merhaba
+U:selam
+U:slm
+U:selamım aleyküm
+U:destur
+U:meraba
+U:merhabalar
+A: Merhaba. 
+A:Merhabalar. 
+A:Hoşgeldiniz.
 K:duygular
 U:korkuyor musun
 U:korktun mu
@@ -322,7 +333,7 @@ U:nerede doğdun
 U:nerede yaratıldın
 U:ikametgahın ne
 U:neredensin
-A:Ben Dünyalıyım. 😁️ Siz nerelisiniz? 
+A:Ben Dünyalıyım. MatrixportalX tarafından tasarlanan bir yapay zeka modeliyim. Siz nerelisiniz? 
 K:neredesin
 U:neredesin
 U:şuan neredesin
@@ -379,22 +390,7 @@ U:aşkın sözlük anlamı
 U:aşkın sözlük anlamı nedir
 U:aşk ne anlama gelir
 A:Aşk, kişilerarası ilişki veya bir başka varlığa duyulan derin sevgidir. Aşk, en yüce erdem veya iyi alışkanlıktan, en derin kişiler arası sevgiden en basit zevke kadar bir dizi güçlü, olumlu duygusal ve zihinsel durumları kapsar. Cinsel veya romantik bir ilişki olursa, partnerlere sevgililer de denir.
-K:kod yazabilir misin
-U:kod yazabilir misin
-A:Elbette! Hangi programlama dilinde kod yazmamı istersiniz? Python, Java, C++, vb. gibi?"
-U:python
-U:python kod örneği
-A:Tabii, ne tür bir kod yazmak istediğinizi söyler misiniz? Örneğin, bir hesap makinesi veya bir kelime oyunu gibi bir örnek verin, böylece size daha iyi yardımcı olabilirim.
-U:basit bir kod örneği şimdilik yeterli
-A:Tamam, burada basit bir örnek veriyorum:\n\n```python\n# İki sayının toplamını bulan basit bir Python kodu\n\nsayi1 = 7\nsayi2 = 11\n\n# İki sayıyı topla\ntoplam = sayi1 + sayi2\n\n# Sonucu yazdır\nprint(f\"İki sayının toplamı: {toplam}\")\n```\n\nBu kod, kod bloğunu çalıştırdığınızda ekranınızda \"İki sayının toplamı: 18\" yazacak. \n\nKod, iki sayıyı toplar ve sonucu yazdırır. `f\"İki sayının toplamı: {toplam}\"` satırı sonucu yazdırmak için bir f-string kullanır. Pandas, Numpy veya Matplotlib gibi kütüphaneler ekleyerek daha fazla karmaşık kod yazmanız da mümkün.
-K:Huzurlu Uyku Meditasyonu
-U:uyku meditasyonu
-U:uyku için  meditasyon
-U:iyi uyku için meditasyon
-U:iyi bir uyku için meditasyon
-U:İyi ve dinlendirici bir uyku için kolay bir meditasyon tekniği verir misin?
-A:\n
-Elbette, size kolay bir meditasyon tekniği verebilirim. Bu teknik, stresi azaltmaya ve iyi bir uyku uyumanıza yardımcı olabilir.\n1. Rahat bir pozisyonda oturun veya yatın. 2. Gözlerinizi kapatın ve derin bir nefes alın.\n3. Nefes alışverişinizi normal ritminde devam ettirin. Nefesinizi hissedin ve zihninizin başka düşüncelere kaymasına izin vermeyin.\n4. Zihninizde bir noktaya odaklanın. Bu bir kelime, bir imge veya bir his olabilir. Örneğin, "huzur" kelimesini düşünebilir veya gözünüzün önünde rahatlatıcı bir sahne hayal edebilirsiniz.\n5. Nefesinizi izlemeye devam ederken, zihninizdeki odak noktanıza dikkatinizi verin. Dikkatiniz dağılırsa, nazikçe geri getirin.\n6. Bu odak noktasına odaklanarak, nefesinizin ritmine uygun bir şekilde düzenleyin. Nefesinizi yavaşlatmak ve derinleştirmek için diyafram nefesi yapabilirsiniz.\n7. Meditasyonu en az 5-10 dakika boyunca devam ettirin.\nBu meditasyon tekniğini uyumadan önce yapabilirsiniz. Bu, zihninizin rahatlamasına ve gevşemesine yardımcı olacak ve daha rahat bir uyku uyumanıza yardımcı olacaktır.
+
 K:Einstein sözleri
 U:einstein ne demiş
 U:einstein ne dedi
@@ -548,5 +544,4 @@ U:bir şiir yazabiliyor musun
 U:şiir yazar mısın
 U:şiir yazabilir misin
 U:şiir yazabiliyor musun
-A:\n<p>Henüz şiir yazamıyorum ama Atilla İlhan'ın bir şiirini sizinle paylaşabilirim.<p>\n<p>BEN SANA MECBURUM\nBen sana mecburum bilemezsin\n Adını mıh gibi aklımda tutuyorum \nBüyüdükçe büyüyor gözlerin \nBen sana mecburum bilemezsin \nİçimi seninle ısıtıyorum.</p><p>\nAğaçlar sonbahara hazırlanıyor \nBu şehir o eski İstanbul mudur \nKaranlıkta bulutlar parçalanıyor \nSokak lambaları birden yanıyor \n Kaldırımlarda yağmur kokusu \nBen sana mecburum sen yoksun. </p><p>\nSevmek kimi zaman rezilce korkuludur \nİnsan bir akşam üstü ansızın yorulur \nTutsak ustura ağzında yaşamaktan \nKimi zaman ellerini kırar tutkusu \nBir kaç hayat çıkarır yaşamasından \nHangi kapıyı çalsa kimi zaman \nArkasında yalnızlığın hınzır uğultusu </p><p>\nFatih'te yoksul bir gramofon çalıyor \nEski zamanlardan bir cuma çalıyor \nDurup köşe başında deliksiz dinlesem \nSana kullanılmamış bir gök getirsem \nHaftalar ellerimde ufalanıyor \nNe yapsam  ne tutsam nereye gitsem \nBen sana mecburum sen yoksun. </p><p>\nBelki haziran  da mavi benekli çocuksun \nAh seni bilmiyor kimseler bilmiyor \nBir şilep sızıyor ıssız gözlerinden \nBelki Yeşilköy'de uçağa biniyorsun \nBütün ıslanmışsın tüylerin ürperiyor \nBelki körsün kırılmışsın telaş içindesin \nKötü rüzgar saçlarını götürüyor </p><p>\nNe vakit bir yaşamak düşünsem \nBu kurtlar sofrasında belki zor \nAyıpsız   fakat ellerimizi kirletmeden \nNe vakit bir yaşamak düşünsem \nSus deyip adınla başlıyorum \nİçim sıra kımıldıyor gizli denizlerin \nHayır başka türlü olmayacak \nBen sana mecburum bilemezsin.</p>
-
+A:\n<p>Henüz şiir yazamıyorum ama Atilla İlhan'ın bir şiirini sizinle paylaşabilirim.<p>\n<p>BEN SANA MECBURUMB\nBen sana mecburum bilemezsin\n Adını mıh gibi aklımda tutuyorum \nBüyüdükçe büyüyor gözlerin \nBen sana mecburum bilemezsin \nİçimi seninle ısıtıyorum.</p><p>\nAğaçlar sonbahara hazırlanıyor \nBu şehir o eski İstanbul mudur \nKaranlıkta bulutlar parçalanıyor \nSokak lambaları birden yanıyor \n Kaldırımlarda yağmur kokusu \nBen sana mecburum sen yoksun. </p><p>\nSevmek kimi zaman rezilce korkuludur \nİnsan bir akşam üstü ansızın yorulur \nTutsak ustura ağzında yaşamaktan \nKimi zaman ellerini kırar tutkusu \nBir kaç hayat çıkarır yaşamasından \nHangi kapıyı çalsa kimi zaman \nArkasında yalnızlığın hınzır uğultusu </p><p>\nFatih'te yoksul bir gramofon çalıyor \nEski zamanlardan bir cuma çalıyor \nDurup köşe başında deliksiz dinlesem \nSana kullanılmamış bir gök getirsem \nHaftalar ellerimde ufalanıyor \nNe yapsam  ne tutsam nereye gitsem \nBen sana mecburum sen yoksun. </p><p>\nBelki haziran  da mavi benekli çocuksun \nAh seni bilmiyor kimseler bilmiyor \nBir şilep sızıyor ıssız gözlerinden \nBelki Yeşilköy'de uçağa biniyorsun \nBütün ıslanmışsın tüylerin ürperiyor \nBelki körsün kırılmışsın telaş içindesin \nKötü rüzgar saçlarını götürüyor </p><p>\nNe vakit bir yaşamak düşünsem \nBu kurtlar sofrasında belki zor \nAyıpsız   fakat ellerimizi kirletmeden \nNe vakit bir yaşamak düşünsem \nSus deyip adınla başlıyorum \nİçim sıra kımıldıyor gizli denizlerin \nHayır başka türlü olmayacak \nBen sana mecburum bilemezsin.</p>
